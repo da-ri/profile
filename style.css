@@ -76,7 +76,7 @@ body{
 }
 
 .oc2 ul li i.Hanz{
-    background: url(/hanz.png) no-repeat center center;
+    background: url(./hanz.png) no-repeat center center;
     background-size: 115%;
 }
 
