@@ -20,7 +20,7 @@ body{
 
 .oc1 .lft i{
     width: 150px; height: 150px;
-    background: #f7f7f7 url(/KakaoTalk_20210126_232540520_02.png) no-repeat center center;
+    background: #f7f7f7 url(https://user-images.githubusercontent.com/65698520/106468481-55830080-64e1-11eb-80e6-920b8c0db0ee.png) no-repeat center center;
     background-size: 110%;
     display: block;
     border-radius: 100%;
@@ -76,11 +76,11 @@ body{
 }
 
 .oc2 ul li i.Hanz{
-    background: url(/hanz.png) no-repeat center center;
+    background: url(https://user-images.githubusercontent.com/65698520/106466884-400cd700-64df-11eb-81db-3a34165b7a41.png) no-repeat center center;
     background-size: 115%;
 }
 
 .oc2 ul li i.min_a{
-    background: url(/min_a.png) no-repeat;
+    background: url(https://user-images.githubusercontent.com/65698520/106466291-7dbd3000-64de-11eb-9997-30975fba1a85.png) no-repeat;
     background-size: cover;
 }
